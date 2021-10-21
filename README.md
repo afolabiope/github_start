@@ -1,2 +1,2 @@
 # github_start
-A respository for basic git workflow
+A respository for basic Git workflow
